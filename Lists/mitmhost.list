@@ -1,0 +1,13 @@
+{
+  "mitmhost": {
+    "note": "elecV2P mitmhost",
+    "total": 1,
+    "active": 1,
+    "list": [
+      {
+        "host": "mancui.xyz",
+        "enable": true
+      }
+    ]
+  }
+}

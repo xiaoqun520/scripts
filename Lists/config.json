@@ -1,0 +1,65 @@
+{
+  "path": "/usr/local/app/script/Lists/config.json",
+  "version": "3.3.8",
+  "start": 1623383306745,
+  "CONFIG_Axios": {
+    "proxy": false,
+    "timeout": 5000,
+    "uagent": "iPhone"
+  },
+  "CONFIG_FEED": {
+    "enable": true,
+    "rss": {
+      "enable": false,
+      "homepage": "https://github.com/elecV2/elecV2P"
+    },
+    "iftttid": {
+      "enable": false,
+      "key": ""
+    },
+    "barkkey": {
+      "enable": false,
+      "key": "https://api.day.app/EjADsVVpvtGhfE3HCwLcjT"
+    },
+    "custnotify": {
+      "enable": true,
+      "url": "https://twilight-flower-7835.xiaoqun521.workers.dev/bot1784815793:AAGN-QGK5l0Nl6jQw-GEOcTzx0mR7IZYNo0/",
+      "type": "POST",
+      "data": "{\n  \"method\": \"sendMessage\",\n  \"chat_id\": 693877311,\n  \"text\": `$title$\\n$body$\\n$url$`\n}"
+    },
+    "runjs": {
+      "enable": false,
+      "list": ""
+    },
+    "merge": {
+      "enable": false,
+      "gaptime": 60000000,
+      "number": 100000,
+      "andor": true
+    },
+    "maxbLength": 1200,
+    "webmessage": {
+      "enable": false
+    }
+  },
+  "wbrtoken": "24b9a796-3350-46ae-9f79-db93aa20af86",
+  "CONFIG_RUNJS": {
+    "timeout": 5000,
+    "intervals": 86400,
+    "numtofeed": 50,
+    "jslogfile": true
+  },
+  "efss": {
+    "enable": true,
+    "directory": "./efss",
+    "dotshow": {
+      "enable": false
+    },
+    "max": 600
+  },
+  "anyproxy": {
+    "enable": false,
+    "port": 8001,
+    "webPort": 8002
+  }
+}
