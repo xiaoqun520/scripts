@@ -1,6 +1,6 @@
 {
     "name": "柒浮梦自用薅羊毛！", 
-    "description": "https://github.com/Sunert/Script", 
+    "description": "https://github.com/xiaoqun520/Script", 
     "task": [
         "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/calendar.png",
         "1 9 * * * https://gitee.com/group520/Loon/raw/master/Script/birthday.js, tag=生日倒计时, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/birthday.png",
