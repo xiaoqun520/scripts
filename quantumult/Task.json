@@ -1,6 +1,6 @@
 
 {
-    "name": "柒浮梦自用薅羊毛！", 
+    "name": "group", 
     "description": "https://github.com/Sunert/Script", 
     "task": [
         "1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/oneSay/oneSay.js, tag=每日一言, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/calendar.png",
