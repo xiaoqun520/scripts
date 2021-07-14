@@ -8,17 +8,10 @@
         "0 9-19 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushTask_elecV2p.js, tag=V2P推送任务, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png",
         "0 7 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/ELECV2PJS/PushBoxjsCookie_elecV2p.js, tag=V2P上传CK, img-url=https://cdn.jsdelivr.net/gh/sngxpro/QuanX@master/pic/jiejie.png",
         "15 * 7-23 * * * https://gitee.com/passerby-b/javascript/raw/master/dyjs.js, tag=抖音极速版刷音符, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png",
-
-        {   
-            "config":"21 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png", 
-            "addons":"https://raw.githubusercontent.com/Ariszy/Private-Script/master/TASK/DYJSB/dyjsb_rewrite.conf, tag=抖音极速版, update-interval=-1, opt-parser=false, enabled=true"
-        },
+        
+        {"config":"21 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/dyjsb.png", "addons":"https://raw.githubusercontent.com/Ariszy/Private-Script/master/TASK/DYJSB/dyjsb_rewrite.conf, tag=抖音极速版, update-interval=-1, opt-parser=false, enabled=true"},
         "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://gitee.com/ydj0602/hym/raw/img/DYHSB.PNG",
         "0 */30 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/hotsoon_old.js, tag=火山视频极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/huoshan.png",
-        {   
-            "config":"5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/jrtt.png", 
-            "addons":"https://raw.githubusercontent.com/Ariszy/Private-Script/master/TASK/JRTT/jrtt_rewrite.conf, tag=今日头条极速版, update-interval=-1, opt-parser=false, enabled=true"
-        },
 
         "10 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=天天挖矿, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/ttwkxcx.png",
         "19 8 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=哔哩哔哩, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png",
@@ -42,6 +35,10 @@
         "20 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/iQIYI.png",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png",
 
+        {
+            "config":"5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/jrtt.png", 
+            "addons":"https://raw.githubusercontent.com/Ariszy/Private-Script/master/TASK/JRTT/jrtt_rewrite.conf, tag=今日头条极速版, update-interval=-1, opt-parser=false, enabled=true"
+        },
         {
             "config":"40 8 * * * https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/dsj.js, tag=电视家ziye版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/dianshijia.png, enabled=true", 
             "addons": "https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/ziye-dsj-url.txt, tag=电视家ziye版, update-interval=-1, opt-parser=false, enabled=true"
