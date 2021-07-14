@@ -1,0 +1,6 @@
+hostname= www.52pojie.cn
+
+# 52破解获取Cookie
+https:\/\/www\.52pojie\.cn\/home\.php\? url script-request-header https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js
+
+

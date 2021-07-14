@@ -1,0 +1,4 @@
+hostname=xiaoshuo.qm989.com
+
+#七猫小说
+^https:\/\/xiaoshuo\.qm989\.com url script-request-header https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js

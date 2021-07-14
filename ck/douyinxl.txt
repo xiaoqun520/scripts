@@ -1,0 +1,16 @@
+hostname = *.snssdk.com,*.amemv.com, *.amemv.com, *.snssdk.com, *.huoshan.com
+
+#抖音极速版
+luckycat/aweme/v1/task/done/read? url script-request-header https://gitee.com/passerby-b/javascript/raw/master/dyjs.js
+luckycat/aweme/v1/task/sign_in/detail? url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js
+luckycat/aweme/v1/task/done/read? url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js
+luckycat/aweme/v1/task/walk/step_submit? - script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/dyjsb.js
+
+# 火山视频极速版
+/luckycat/hotsoon/v1/task/done/daily_read_\d+m? url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/hotsoon_old.js
+/luckycat/hotsoon/v1/task/done/draw_excitation_ad? url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/hotsoon_old.js
+/luckycat/hotsoon/v1/task/sign_in_detail? script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/hotsoon_old.js
+
+#抖音火山版
+/hotsoon/flame/task_done/? url script-request-body https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/huoshan.js
+/hotsoon/item/reaction/_play/? url script-request-body https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/huoshan.js

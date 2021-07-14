@@ -1,0 +1,4 @@
+hostname=node.kg.qq.com
+
+#全民K歌
+^https://node\.kg\.qq\.com/webapp/proxy? url script-request-body https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.cookie.js

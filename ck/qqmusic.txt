@@ -1,0 +1,5 @@
+hostname=*.y.qq.com
+
+#QQ音乐
+^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg url script-request-body qqmusic.cookie.js
+^https:\/\/u.y.qq.com\/cgi\-bin\/musicu.fcg url script-response-body qqmusic.cookie.js

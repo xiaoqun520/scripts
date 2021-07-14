@@ -1,0 +1,6 @@
+hostname = proxy.vac.qq.com
+
+#qq会员获取cookie
+https:\/\/proxy.vac.qq.com\/cgi-bin\/srfentry.fcgi? url script-request-header https://raw.githubusercontent.com/lowking/Scripts/master/QQVip/qqVipCheckIn.js
+
+
