@@ -8,7 +8,7 @@
     {
       "id": "dyjs",
       "name": "抖音极速版刷音符",
-      "keys": ["dyheaders"],
+      "keys": ["dyheadlist"],
       "descs_html": [],
       "settings": [],
       "icons": [
