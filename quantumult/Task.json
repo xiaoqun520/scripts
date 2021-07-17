@@ -25,7 +25,7 @@
         "0 10 0 * * * https://github.com/DD-D1/2020scripts/blob/master/QQReadSign.js, tag=QQ阅读旧版, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/QQread.png",
         " 0 9 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://raw.githubusercontent.com/Ariszy/Private-Script/master/img/fqxs.png, enabled=true",
         "9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js, tag=七猫小说, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/qimao.png",
-        "36 8 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.js, tag=书旗小说, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png",
+        "36 8 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/SHUQI/shuqi.js, tag=书旗小说, img-url=https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/shuqi.png",
         "1 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10010.png",
         "1 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10000/10000.js, tag=中国电信, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10000.png",
         "3 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧NobyDa版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png",
